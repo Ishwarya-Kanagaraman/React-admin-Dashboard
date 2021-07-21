@@ -18,7 +18,7 @@ import NotFound ,{BlankPage}from "../pages/NotFound";
 import Charts from "../pages/ChartsPage";
 import Tables from "../pages/Tables";
 export default function Navbars() {
-  const [display,setDisplay]=useState(false);
+  // const [display,setDisplay]=useState(false);
   return (
     <main className="Navbar container-fluid">
       <ul className="row"
