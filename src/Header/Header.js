@@ -1,4 +1,4 @@
-import React ,{useState} from "react";
+import React from "react";
 import { Badge } from "react-bootstrap";
 import AnimationsPage from "../pages/AnimationsPage";
 import "./Header.css";
